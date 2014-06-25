@@ -1,0 +1,11 @@
+RETENTION_DAYS = 8
+WARNING_TEMP = 80
+ALERT_TEMP = 90
+LOCATION = "Ben's Cube"
+FROM_EMAIL = 'BRITempNoReply@benaroyaresearch.org'
+EMAIL_PASSWD = 'sDNl8QnLdODGvNPBml6K'
+EMAIL_SERVER = 'smtp.brivmrc.org'
+EMAIL_PORT = 587
+EMAILS = [
+    'bwilson@benaroyaresearch.org',
+]
